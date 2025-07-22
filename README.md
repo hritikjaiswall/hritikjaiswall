@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Hritik Jaiswal <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JwcTY4ZHh3MWZiZWRpZTE2bXBuNjFpamV2ZGo1czBvMmMzMjdpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GYtblmdLnemlO/giphy.gif" width="35"></h1>
 
 <p align="center">
- <a href="https://github.com/fakehrj"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Engineer+in+the+making;DS%20|%20Algo%20|%20Web+Dev%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+ <a href="https://github.com/hritikjaiswall"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Engineer+in+the+making;DS%20|%20Algo%20|%20Web+Dev%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 	</p>
  
  <p align="center"> <img src="[https://www.naukri.com/code360/profile/fakehrj]" alt="codestudio" > </p>
