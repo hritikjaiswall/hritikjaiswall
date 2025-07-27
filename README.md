@@ -58,7 +58,7 @@
 - 🌱 I’m currently learning: Web Development
 - 💬 Ask me about: anything, I am happy to help
 - 🌍 I support: Healthy lifestyle , good working environment.
-- 💜 Interests: travel, googling , acting, music.
+- 💜 Interests: travel, googling , acting & music.
 
 <hr>
 
